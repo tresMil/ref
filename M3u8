@@ -1,0 +1,156 @@
+#EXTM3U
+#EXTINF:-0,MIA MX
+#EXTINF:-1 tvg-logo="http://puu.sh/mw4Uk/65b3f604c7.png" group-title="Mexico",Gala TV
+http://usuarios.club/usuarios/src1/GalaTV/iptv/club.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reLCX/937b00396a.png" group-title="Mexico",Azteca 7
+http://usuarios.club/usuarios/src1/Azteca7/iptv/club.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/rePCK/d7e50582cf.png" group-title="Mexico",Canal 5
+http://usuarios.club/usuarios/src1/Canal5/iptv/club.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reIIU/e589dfb963.png" group-title="Mexico",Canal de las Estrellas (720p)
+http://usuarios.club/usuarios/src2/CANAL_DE_LAS_ESTRELLAS/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLzy/cd6ff326e5.png" group-title="Entretenimiento",Unicable (720p)
+http://usuarios.club/usuarios/src2/UNICABLE/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://tvpremiumhd.com/tv.png" group-title="TV MEXICO",TLNOVELAS
+http://tvpremiumhd.club/lista-gratuita/fox/s83.ts
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLe8/21bf87649b.png" group-title="Entretenimiento",Telemundo (720p)
+http://usuarios.club/usuarios/src2/TELEMUNDO/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/tqWGU/8642e69f30.png" group-title="Noticias",Aristegui Noticias
+http://usuarios.club/usuarios/src4/AristeguiNoticias/iptv/club.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mwdSw/26eea6807c.png" group-title="Noticias",Milenio
+http://usuarios.club/usuarios/src1/Milenio/iptv/club.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLe8/21bf87649b.png" group-title="Entretenimiento",Telemundo (720p)
+http://usuarios.club/usuarios/src2/TELEMUNDO/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reIHx/6250def099.png" group-title="Entretenimiento",A&E (720p)
+http://usuarios.club/usuarios/src2/AE_MUNDO_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reJ15/8c1d70d8e8.png" group-title="Entretenimiento",AMC (720p)
+http://usuarios.club/usuarios/src2/AMC_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reJpA/bdc45a314f.png" group-title="Cultura",Animal Planet (720p)
+http://usuarios.club/usuarios/src2/ANIMAL_PLANET_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/vKPy9/b41ea1c700.png" group-title="Entretenimiento",E! (720p)
+http://usuarios.club/usuarios/src2/E/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mb2Rd/9c56f73248.png" group-title="Cultura",Nat Geo Wild
+http://usuarios.club/usuarios/src1/NatGeoWild/iptv/club.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/msJjE/f96602e474.png" group-title="Cultura",Nat Geo MX (720p)
+http://usuarios.club/usuarios/src2/NATGEO_MX_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reRWX/1a8a31aab2.png" group-title="Cultura",Discovery H&H (720p)
+http://usuarios.club/usuarios/src2/DISCOVERY_HOME_HEALTH_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reRUc/d3099fe256.png" group-title="Cultura",Discovery Channel (720p)
+http://usuarios.club/usuarios/src2/DISCOVERY_CHANNEL_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reRVX/09b104b39b.png" group-title="Cultura",Discovery Civilization (720p)
+http://usuarios.club/usuarios/src2/DISCOVERY_CIVILIZATION/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reRYB/986cacfcf9.png" group-title="Cultura",Discovery SCI (720p)
+http://usuarios.club/usuarios/src2/DISCOVERY_SCIENCE/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reRZf/b724b419e5.png" group-title="Cultura",Discovery Theater (720p)
+http://usuarios.club/usuarios/src2/DISCOVERY_THEATER_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reRZC/14ff477422.png" group-title="Cultura",Discovery Turbo (720p)
+http://usuarios.club/usuarios/src2/DISCOVERY_TURBO/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reS0X/3496f4a93c.png" group-title="Cultura",Discovery World (720p)
+http://usuarios.club/usuarios/src2/DISCOVERY_WORLD_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reMA0/0021d6fded.png" group-title="Infantiles",Boomerang (720p)
+http://usuarios.club/usuarios/src2/BOOMERANG/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reRXX/7e741b9363.png" group-title="Infantiles",Discovery Kids (720p)
+http://usuarios.club/usuarios/src2/DISCOVERY_KIDS_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLxU/786687775b.png" group-title="Infantiles",Baby TV
+http://usuarios.club/usuarios/src5/BabyTV/iptv/club.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reSpf/d906cbcd81.png" group-title="Infantiles",Disney Junior (720p)
+http://usuarios.club/usuarios/src2/DISNEY_JR/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reSoT/ff01278d6c.png" group-title="Infantiles",Disney Channel (720p)
+http://usuarios.club/usuarios/src2/DISNEY_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reSum/21ca73f9ad.png" group-title="Infantiles",Disney XD (720p)
+http://usuarios.club/usuarios/src2/DISNEY_XD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/rePWc/83c5918f24.png" group-title="Infantiles",Cartoon Network (720p)
+http://usuarios.club/usuarios/src2/CARTOON_NETWORK_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://tvpremiumhd.com/tv.png" group-title="INFANTIL",NICK JR HD
+http://tvpremiumhd.club/lista-gratuita/fox/s84.ts
+#EXTINF:-1 tvg-logo="http://tvpremiumhd.com/tv.png" group-title="INFANTIL",NICK HD
+http://tvpremiumhd.club/lista-gratuita/fox/s48.ts
+#EXTINF:-1 tvg-logo="http://puu.sh/x0JYV/cb7bb13579.png" group-title="Peliculas",Cinecanal (720p)
+http://usuarios.club/usuarios/src2/CINECANAL_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/pIeaf/23e6946023.png" group-title="Peliculas",Cine Latino (720p)
+http://usuarios.club/usuarios/src2/CINELATINO/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reQvi/55e4d2dd67.png" group-title="Peliculas",Cinemax (720p)
+http://usuarios.club/usuarios/src2/CINEMAX/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reQVf/4dc9bf5f4d.png" group-title="Peliculas",De Película (720p)
+http://usuarios.club/usuarios/src2/DEPELICULA/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/vKOIx/06a80881a6.png" group-title="Entretenimiento",TNT Series (720p)
+http://usuarios.club/usuarios/src2/TNT_SERIES_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reJCz/838424c918.png" group-title="Entretenimiento",AXN (720p)
+http://usuarios.club/usuarios/src2/AXN_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/nsW5e/6bbcc438c7.png" group-title="Peliculas",Paramount (720p)
+http://usuarios.club/usuarios/src2/PARAMOUNT_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbGkk/b6e3cc25e6.png" group-title="Peliculas",Studio Universal (720p)
+http://usuarios.club/usuarios/src2/STUDIO_UNIVERSAL/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/monkP/4502e76205.png" group-title="Peliculas",Universal (720p)
+http://usuarios.club/usuarios/src2/UNIVERSAL_CHANNEL/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reX9a/e5e9972612.png" group-title="Peliculas",Space HD (720p)
+http://usuarios.club/usuarios/src2/SPACE_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/msGV1/093178617f.png" group-title="Entretenimiento",Sony (720p)
+http://usuarios.club/usuarios/src2/SONY_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mwdML/61aec19cb5.png" group-title="Entretenimiento",Warner Channel HD (720p)
+http://usuarios.club/usuarios/src2/WARNER_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/vKP8k/b5666df9d4.png" group-title="Peliculas",TNT (720p)
+http://usuarios.club/usuarios/src2/TNT_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/reNQW/00bf0aa6a6.png" group-title="Entretenimiento",Fox (720p)
+http://usuarios.club/usuarios/src2/FOX_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mb4fc/e2d14330d9.png" group-title="Entretenimiento",Fox 1 (720p)
+http://usuarios.club/usuarios/src2/FOX1_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0LeC/595dce70c8.png" group-title="Peliculas",Fox Action (720p)
+http://usuarios.club/usuarios/src2/FOXACTION_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0Lfh/cb3dc80116.png" group-title="Peliculas",Fox Cinema Sub (720p)
+http://usuarios.club/usuarios/src2/FOX_CINEMA_HD_SUB/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0LiH/f26860a2c8.png" group-title="Peliculas",Fox Movies (720p)
+http://usuarios.club/usuarios/src2/FOXMOVIES_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0Lhf/6859ba5c51.png" group-title="Peliculas",Fox Comedy (720p)
+http://usuarios.club/usuarios/src2/FOX_COMEDY_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0LhV/e129909584.png" group-title="Peliculas",Fox Family (720p)
+http://usuarios.club/usuarios/src2/FOXFAMILY_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0LCi/4271953f95.png" group-title="Entretenimiento",Fox Life (720p)
+http://usuarios.club/usuarios/src2/FOX_LIFE_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/tXlaB/2147bff587.png" group-title="Entretenimiento",FX (720p)
+http://usuarios.club/usuarios/src2/FX_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/wXpBG/491f7e6a2e.png" group-title="Peliculas",HBO Sub (720p)
+http://usuarios.club/usuarios/src2/HBO_HD_SUB/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/wXpDv/c09197c8e2.png" group-title="Peliculas",HBO 2 (720p)
+http://usuarios.club/usuarios/src2/HBO_2_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0LNH/b051be378d.png" group-title="Peliculas",HBO Family (720p)
+http://usuarios.club/usuarios/src2/HBO_FAMILY_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0Mur/9f910f41f2.png" group-title="Peliculas",HBO Plus (720p)
+http://usuarios.club/usuarios/src2/HBO_PLUS_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbM0H/f69315831b.png" group-title="Peliculas",HBO Signature (720p)
+http://usuarios.club/usuarios/src2/HBO_SIGNATURE_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://tvpremiumhd.com/tv.png" group-title="ENTRETENIMIENTO",MAX PRIME HD
+http://tvpremiumhd.club/lista-gratuita/fox/s103.ts
+#EXTINF:-1 tvg-logo="http://puu.sh/mbM9Q/075938049b.png" group-title="Peliculas",Max Up (720p)
+http://usuarios.club/usuarios/src2/MAX_UP_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mw4XE/6a57b1ac9a.png" group-title="Peliculas",Golden (720p)
+http://usuarios.club/usuarios/src2/GOLDEN_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0Lq1/cf1aff3df1.png" group-title="Peliculas",Golden Premier (720p)
+http://usuarios.club/usuarios/src2/GOLDEN_PREMIER_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mVU2h/af6a5cd998.png" group-title="Deportes",ESPN + (720p)
+http://usuarios.club/usuarios/src2/ESPN_PLUS_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbGSP/45ab2c58f3.png" group-title="Deportes",ESPN 2 (720p)
+http://usuarios.club/usuarios/src2/ESPN_2_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLku/738fa2b5a4.png" group-title="Deportes",ESPN 3 (720p)
+http://usuarios.club/usuarios/src2/ESPN_3_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mVU7r/07c337d6d2.png" group-title="Deportes",ESPN MX
+http://usuarios.club/usuarios/src1/ESPNMX/iptv/club.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xTpGp/5bc4e5d1d6.png" group-title="Deportes",TNT Sports
+http://usuarios.club/usuarios/src5/TNTSports/iptv/club.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbGZ1/47e0e1e430.png" group-title="Deportes",Fox Sports (720p)
+http://usuarios.club/usuarios/src2/FOX_SPORTS_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mwe6K/af7e32f4e0.png" group-title="Deportes",Fox Sports 2 (720p)
+http://usuarios.club/usuarios/src2/FOX_SPORTS2_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbLmr/bfa50e6e5c.png" group-title="Deportes",Fox Sports 3 (720p)
+http://usuarios.club/usuarios/src2/FOX_SPORTS3_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbGZ1/47e0e1e430.png" group-title="Deportes",Fox Sports MX (720p)
+http://usuarios.club/usuarios/src2/FOXSP1_MX_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="https://puu.sh/xTXkN/af837fadb2.png" group-title="Deportes",Fox Sports Premium
+http://usuarios.club/usuarios/src5/FoxSportsPremium/iptv/club.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/x0PI6/05b7191ea6.png" group-title="Musica",Telehit
+http://usuarios.club/usuarios/src1/Telehit/iptv/club.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/mbGym/06df5cd57a.png" group-title="Musica",MTV Live (720p)
+http://usuarios.club/usuarios/src2/MTV_LIVE_HD/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/msJ9I/124c6012bc.png" group-title="Musica",MTV Hits (720p)
+http://usuarios.club/usuarios/src2/MTV_HITS/iptv/club/hd.m3u8
+#EXTINF:-1 tvg-logo="http://puu.sh/maO70/72d9b8319f.png" group-title="Musica",MTV (720p)
+http://usuarios.club/usuarios/src2/MTV_HD/iptv/club/hd.m3u8
